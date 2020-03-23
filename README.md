@@ -1,1 +1,1 @@
-Vue.js-tech-test__phone-selection
+Vue.js Technical Test
