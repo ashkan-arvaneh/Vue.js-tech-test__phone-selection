@@ -17,7 +17,7 @@
 
         <p class="description">{{ activeOption.displayDescription }}</p>
 
-        <div class="columns">
+        <div class="columns is-mobile">
           <div class="column is-6">
             <p>
               Colour:
@@ -54,8 +54,8 @@
           </div>
         </div>
 
-        <div class="columns pricing-box">
-          <div class="column is-6">
+        <div class="columns pricing-box is-mobile">
+          <div class="column">
             <p>
               from
               <span class="price">&pound;{{ activeOptionUpfrontPrice }}</span>
